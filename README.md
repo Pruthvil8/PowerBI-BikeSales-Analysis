@@ -10,8 +10,6 @@ The dashboard includes:
 - **Gender-wise Purchase Count**
 - **Owners of Bikes by Occupation**
 
-![Dashboard Preview]("Bike Sales Dashboard.png")
-
 ## 🔍 Key Insights
 - Middle-aged individuals purchased the most bikes.
 - Slightly more male buyers than female.
