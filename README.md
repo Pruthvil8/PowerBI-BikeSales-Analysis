@@ -19,11 +19,10 @@ The dashboard includes:
 ## 📁 Folder Structure
 - `Dashboard/`: Dashboard screenshots
 - `Data/`: Raw or sample dataset
-- `Reports/`: Summary of key takeaways
 
 ## 🛠 Tools Used
 - Power BI
-- Excel/CSV (for dataset)
+- Excel File (for dataset)
 
 ## 📌 Author
 Pruthvil Bhavsar
